@@ -121,11 +121,6 @@ javac com/arquiteturap2p/*.java
 java com.arquiteturap2p.Peer 4441 Ronaldo
 ```
 
-## 🔧 Scripts Auxiliares
-
-- **`teste.bat`**: Compila o projeto e mostra instruções
-- **`teste_saida.bat`**: Teste específico para verificar saída de peers
-
 ## 📝 Observações
 
 - Cada peer precisa de uma **porta única**
